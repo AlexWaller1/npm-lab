@@ -1,0 +1,26 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "a little test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexWaller1/npm-lab.git"
+  },
+  "keywords": [
+    "package.json",
+    "react"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexWaller1/npm-lab/issues"
+  },
+  "homepage": "https://github.com/AlexWaller1/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
